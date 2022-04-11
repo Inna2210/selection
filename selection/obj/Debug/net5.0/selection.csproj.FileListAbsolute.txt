@@ -1,0 +1,32 @@
+D:\Сишарп\selection\obj\Debug\net5.0\selection.csproj.AssemblyReference.cache
+D:\Сишарп\selection\obj\Debug\net5.0\selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сишарп\selection\obj\Debug\net5.0\selection.AssemblyInfoInputs.cache
+D:\Сишарп\selection\obj\Debug\net5.0\selection.AssemblyInfo.cs
+D:\Сишарп\selection\obj\Debug\net5.0\selection.csproj.CoreCompileInputs.cache
+D:\Сишарп\selection\bin\Debug\net5.0\selection.exe
+D:\Сишарп\selection\bin\Debug\net5.0\selection.deps.json
+D:\Сишарп\selection\bin\Debug\net5.0\selection.runtimeconfig.json
+D:\Сишарп\selection\bin\Debug\net5.0\selection.runtimeconfig.dev.json
+D:\Сишарп\selection\bin\Debug\net5.0\selection.dll
+D:\Сишарп\selection\bin\Debug\net5.0\ref\selection.dll
+D:\Сишарп\selection\bin\Debug\net5.0\selection.pdb
+D:\Сишарп\selection\obj\Debug\net5.0\selection.dll
+D:\Сишарп\selection\obj\Debug\net5.0\ref\selection.dll
+D:\Сишарп\selection\obj\Debug\net5.0\selection.pdb
+D:\Сишарп\selection\obj\Debug\net5.0\selection.genruntimeconfig.cache
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.exe
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.deps.json
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.runtimeconfig.json
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.runtimeconfig.dev.json
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.dll
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\ref\selection.dll
+D:\Сишарп\selection\selection 1\bin\Debug\net5.0\selection.pdb
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.csproj.AssemblyReference.cache
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.AssemblyInfoInputs.cache
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.AssemblyInfo.cs
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.csproj.CoreCompileInputs.cache
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.dll
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\ref\selection.dll
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.pdb
+D:\Сишарп\selection\selection 1\obj\Debug\net5.0\selection.genruntimeconfig.cache
